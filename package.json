@@ -1,0 +1,24 @@
+{
+  "name": "react-tagsautocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "react": "15.6.1",
+    "react-addons-perf": "15.4.2",
+    "react-bootstrap": "0.31.1",
+    "react-dom": "15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.16"
+  }
+}
